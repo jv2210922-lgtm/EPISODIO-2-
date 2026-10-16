@@ -1,0 +1,8 @@
+#promedio de notas es la suma de
+#todas las notas divididas por la cantidad
+
+notas =[10,8]
+sumatoria = 0
+for nota in notas :
+sumatoria += nota # sumatoria = sumatoria + nota
+cantNotas = len
